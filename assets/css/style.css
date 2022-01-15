@@ -1758,3 +1758,6 @@ p.form-message.success, p.form-message.error {
       cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
+p,.list-group-item{
+  color:#000;
+}
